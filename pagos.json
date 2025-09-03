@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "functionCode": "return [{\n  json: {\n    markdown: `# TRANSFERENCIAS\n\n🔹 **Nombre:** MEDSCULP SAC  \n🔹 **RUC:** 20606478969  \n\n## BCP\n- Cuenta Corriente: **1949842128032**  \n- Interbancario - CCI: **00219400984212803296**  \n\n## INTERBANK\n- Cuenta Corriente: **0593002222792**  \n\n## SCOTIABANK\n- Cuenta Corriente: **0003947243**  \n\n## BBVA\n- Cuenta Corriente: **001104860100204529**  \n\n## YAPE\n**960 177 015**`\n  }\n}];"
+      },
+      "id": "1",
+      "name": "Generar Markdown Transferencias",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        500,
+        300
+      ]
+    }
+  ]
+}
