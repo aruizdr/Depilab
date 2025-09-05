@@ -1,0 +1,13 @@
+{
+  "clinicas": [
+    { "ClinicID": "1", "ClinicName": "Depilab - San Isidro" },
+    { "ClinicID": "2", "ClinicName": "Depilab - El Polo" },
+    { "ClinicID": "3", "ClinicName": "Depilab - La Molina" },
+    { "ClinicID": "4", "ClinicName": "Depilab - San Miguel" },
+    { "ClinicID": "5", "ClinicName": "Depilab - Los Olivos" },
+    { "ClinicID": "6", "ClinicName": "Depilab - Primavera" },
+    { "ClinicID": "7", "ClinicName": "Depilab - San Juan de Lurigancho" },
+    { "ClinicID": "8", "ClinicName": "_Test - Depilab" },
+    { "ClinicID": "9", "ClinicName": "Depilab - Santa Anita" }
+  ]
+}

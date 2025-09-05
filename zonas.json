@@ -1,0 +1,170 @@
+{
+
+"zonas":[
+   {
+      "id":"5",
+      "name":"Abdomen"
+   },
+   {
+      "id":"6",
+      "name":"Antebrazos"
+   },
+   {
+      "id":"7",
+      "name":"Areolas"
+   },
+   {
+      "id":"8",
+      "name":"Axilas"
+   },
+   {
+      "id":"9",
+      "name":"Bikini completo"
+   },
+   {
+      "id":"10",
+      "name":"Bikini tradicional"
+   },
+   {
+      "id":"11",
+      "name":"Brazo superior"
+   },
+   {
+      "id":"12",
+      "name":"Brazos completos"
+   },
+   {
+      "id":"13",
+      "name":"Dedos de manos"
+   },
+   {
+      "id":"14",
+      "name":"Dedos de pies"
+   },
+   {
+      "id":"15",
+      "name":"Dorsales"
+   },
+   {
+      "id":"16",
+      "name":"Espalda Alta"
+   },
+   {
+      "id":"17",
+      "name":"Espalda completa"
+   },
+   {
+      "id":"18",
+      "name":"Glúteos"
+   },
+   {
+      "id":"19",
+      "name":"Glúteos Centrales"
+   },
+   {
+      "id":"20",
+      "name":"Hombros"
+   },
+   {
+      "id":"21",
+      "name":"Ingles"
+   },
+   {
+      "id":"22",
+      "name":"Intergluteo"
+   },
+   {
+      "id":"23",
+      "name":"Intermamaria"
+   },
+   {
+      "id":"24",
+      "name":"Labios Vaginales"
+   },
+   {
+      "id":"25",
+      "name":"Línea Alba"
+   },
+   {
+      "id":"26",
+      "name":"Línea media superior"
+   },
+   {
+      "id":"27",
+      "name":"Lumbar"
+   },
+   {
+      "id":"28",
+      "name":"Manos"
+   },
+   {
+      "id":"29",
+      "name":"Medias piernas inferiores"
+   },
+   {
+      "id":"30",
+      "name":"Muslos"
+   },
+   {
+      "id":"31",
+      "name":"Nuca"
+   },
+   {
+      "id":"32",
+      "name":"Pecho"
+   },
+   {
+      "id":"33",
+      "name":"Periné"
+   },
+   {
+      "id":"34",
+      "name":"Piernas completas"
+   },
+   {
+      "id":"35",
+      "name":"Pies"
+   },
+   {
+      "id":"59",
+      "name":"Cara"
+   },
+   {
+      "id":"60",
+      "name":"Cara completa"
+   },
+   {
+      "id":"61",
+      "name":"Cuello"
+   },
+   {
+      "id":"62",
+      "name":"Entre cejo"
+   },
+   {
+      "id":"63",
+      "name":"Frente"
+   },
+   {
+      "id":"64",
+      "name":"Labio superior"
+   },
+   {
+      "id":"65",
+      "name":"Línea Mandibular"
+   },
+   {
+      "id":"66",
+      "name":"Mejillas"
+   },
+   {
+      "id":"67",
+      "name":"Mentón"
+   },
+   {
+      "id":"68",
+      "name":"Patillas"
+   }
+]
+   
+}
