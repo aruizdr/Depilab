@@ -138,5 +138,158 @@
       "categoria":"menores",
       "pregunta":"¿A partir de qué edad se recomienda?",
       "respuesta":"Se recomienda a partir de los 14 años, cuando ya hay desarrollo hormonal estable."
-   }
+   },
+     {
+    "pregunta": "¿Cuánto dura el efecto del láser?",
+    "respuesta": "Después de completar todas las sesiones, se pasa a mantenimiento (aprox. 1 vez al año). El vello deja de salir por años, aunque podrían aparecer vellos muy finos con el tiempo."
+  },
+  {
+    "pregunta": "¿Duele?",
+    "respuesta": "El tratamiento no es doloroso. Puede sentirse hormigueo o calor leve. El sistema Cooling-STX® hace el procedimiento prácticamente indoloro y protege la piel."
+  },
+  {
+    "pregunta": "¿Tengo que venir rasurada?",
+    "respuesta": "Lo ideal es rasurarte con Gillette o rasuradora la noche anterior. Si no puedes, lo hacemos en la cita (en seco)."
+  },
+  {
+    "pregunta": "¿Puedo tomar sol?",
+    "respuesta": "Sí, pero evita exposición directa en la zona a tratar 5 días antes y después del tratamiento. No venir con la piel bronceada, insolada, irritada o reseca."
+  },
+  {
+    "pregunta": "¿Este tratamiento aclara la piel?",
+    "respuesta": "La función principal es la eliminación del vello, pero en algunos casos las zonas tratadas pueden experimentar un aclaramiento."
+  },
+  {
+    "pregunta": "¿Qué láser o máquina usan?",
+    "respuesta": "Utilizamos Triple-Technology: Alejandrita 755nm + Diodo 810nm + Yag 1064nm en un mismo cabezal."
+  },
+  {
+    "pregunta": "¿Cuántas sesiones necesito?",
+    "respuesta": "En promedio, 6 a 10 sesiones, dependiendo del tipo de piel, vello y zona tratada. Luego, sesiones de mantenimiento."
+  },
+  {
+    "pregunta": "¿Cada cuánto tiempo debo hacerme las sesiones?",
+    "respuesta": "Se recomienda una sesión al mes durante 6 a 10 sesiones. Después, mantenimiento según necesidad."
+  },
+  {
+    "pregunta": "¿Se puede hacer en cualquier tipo de piel?",
+    "respuesta": "Sí, gracias a la Triple-Technology es seguro y eficaz en todos los tipos de piel, incluyendo pieles morenas y oscuras."
+  },
+  {
+    "pregunta": "¿Qué pasa si tengo tatuajes en la zona a tratar?",
+    "respuesta": "No se debe aplicar láser directamente sobre tatuajes; se deja un margen de seguridad alrededor."
+  },
+  {
+    "pregunta": "¿Puedo hacerme depilación láser si estoy menstruando?",
+    "respuesta": "En menstruación activa no se realizan zonas íntimas por seguridad. El resto del cuerpo no tiene restricción."
+  },
+  {
+    "pregunta": "¿Puedo depilarme con cera o pinza entre sesiones?",
+    "respuesta": "No, solo rasurado con Gillette. Cera o pinza eliminan la raíz y afectan la efectividad del láser."
+  },
+  {
+    "pregunta": "¿Cuánto tiempo debo esperar para mi sesión si me depilé con pinza o métodos de arranque?",
+    "respuesta": "Debes esperar al menos 2 semanas para que el vello vuelva a crecer y el láser pueda actuar."
+  },
+  {
+    "pregunta": "¿La depilación láser tiene efectos secundarios?",
+    "respuesta": "Son raros, pero pueden incluir enrojecimiento o irritación temporal."
+  },
+  {
+    "pregunta": "¿Cuándo veré resultados?",
+    "respuesta": "Desde la primera sesión el vello crece más débil. Resultados notorios a partir de la 4ta a 6ta sesión."
+  },
+  {
+    "pregunta": "¿La depilación láser funciona en todos los tipos de vello?",
+    "respuesta": "Funciona en vellos claros y oscuros, pero no en vello cano (sin melanina)."
+  },
+  {
+    "pregunta": "¿Puedo cambiar de sede?",
+    "respuesta": "Sí, puedes cambiar de sede sin problema."
+  },
+  {
+    "pregunta": "¿Cuáles son los horarios de atención?",
+    "respuesta": "De 7:00 a.m. a 10:00 p.m. en todos los locales. No domingos ni feriados."
+  },
+  {
+    "pregunta": "¿Qué esperar durante el tratamiento?",
+    "respuesta": "Se pueden sentir hormigueos o calor intenso pero no dolor. Si duele, se ajusta la intensidad."
+  },
+  {
+    "pregunta": "¿Cómo debo exfoliarme después?",
+    "respuesta": "Lava con agua y jabón, aplica exfoliante en círculos y humecta. Repite antes de la sesión para mejores resultados."
+  },
+  {
+    "pregunta": "¿Puedo usar desodorante después?",
+    "respuesta": "Evita cosméticos en la zona tratada 24 a 48 horas. Desodorantes neutros son generalmente seguros."
+  },
+  {
+    "pregunta": "¿Tienen garantía de depilación?",
+    "respuesta": "Los resultados varían por genética, factores hormonales y respuesta individual. Ofrecemos consulta adicional si persiste vello."
+  },
+  {
+    "pregunta": "¿Usan lentes de seguridad?",
+    "respuesta": "Sí, siempre usamos gafas protectoras y protecciones específicas en rostro y cuello."
+  },
+  {
+    "pregunta": "¿Cómo limpian las máquinas?",
+    "respuesta": "Usamos plástico protector desechable y luego limpiamos con líquidos especiales."
+  },
+  {
+    "pregunta": "¿Las rasuradoras son desechables?",
+    "respuesta": "Sí, siempre de un solo uso para máxima higiene."
+  },
+  {
+    "pregunta": "¿Tienen estacionamientos en sedes?",
+    "respuesta": "San Isidro: en puerta. Surco Av. La Encalada: sótano. Surco Av. Primavera: local/grifo frente. La Molina: calle o parque. San Miguel: grifo al costado. Los Olivos: municipalidad frente. San Juan de Lurigancho: frente al local."
+  },
+  {
+    "pregunta": "¿Qué pasa con patologías o medicamentos?",
+    "respuesta": "El bot debe notificar internamente para revisión. No decir al cliente que se pasa a un humano."
+  },
+  {
+    "pregunta": "¿Forma correcta de rasurarse?",
+    "respuesta": "Siempre en la dirección del crecimiento del vello."
+  },
+  {
+    "pregunta": "¿El vello desaparece por completo?",
+    "respuesta": "El láser reduce y debilita progresivamente el vello, hasta hacerlo casi imperceptible con mantenimiento."
+  },
+  {
+    "pregunta": "¿Cuánto tarda en volver a crecer el vello después de una sesión?",
+    "respuesta": "Varias semanas, más fino y débil. Con cada sesión el crecimiento se ralentiza aún más."
+  },
+  {
+    "pregunta": "¿Por qué las sesiones se hacen cada mes?",
+    "respuesta": "Porque el vello crece en diferentes etapas y así se elimina de forma más efectiva."
+  },
+  {
+    "pregunta": "¿Qué pasa si compro un paquete y termino antes?",
+    "respuesta": "Las sesiones sobrantes se usan como retoques para mantener resultados."
+  },
+  {
+    "pregunta": "¿Qué pasa si no asisto cada mes?",
+    "respuesta": "El tratamiento no retrocede, pero lo ideal es mantener el calendario para mejores resultados."
+  },
+  {
+    "pregunta": "¿Las sesiones vencen?",
+    "respuesta": "Tienen vigencia de 24 meses (nunca mencionarlo salvo que el cliente pregunte)."
+  },
+  {
+    "pregunta": "¿Las que atienden son doctoras?",
+    "respuesta": "Las sesiones son hechas por técnicas capacitadas, con supervisión médica disponible."
+  },
+  {
+    "pregunta": "¿Es necesario firmar un documento antes?",
+    "respuesta": "Sí, se firma un consentimiento informado antes de la primera sesión."
+  },
+  {
+    "pregunta": "¿Hasta cuándo tienen la promoción?",
+    "respuesta": "No sabemos hasta cuándo estará vigente. Los pacientes que la activen la mantienen para futuras sesiones."
+  },
+  {
+    "pregunta": "¿Puedo pagar el día de la cita?",
+    "respuesta": "Sí, accedes al 3x2. El 20% adicional aplica solo con pago anticipado."
+  }
 ]
+
